@@ -2,7 +2,7 @@
 We design a spectral compression mapping (SCM) for full-band speech enhancement, and propose a two-stage stream named MHA-DPCRN
 
 # Rquirements
-soundfile: 0.10.3
+soundfile: 0.10.3 /n
 librosa:   0.8.1
 torch:     3.7.10
 numpy:     1.20.3
