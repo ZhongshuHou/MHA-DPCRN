@@ -17,3 +17,6 @@ tqdm:      4.62.3
 4. Set parameters in Modules.py  
 5. Use Network_Training.py starting training and save checkpoints  
 6. Use Infer.py to enhance noisy speech based on trained checkpoint.  
+
+# URL
+https://arxiv.org/ftp/arxiv/papers/2206/2206.13136.pdf
